@@ -1,6 +1,6 @@
 # Seattle Student Homework Submissions
 
-Remeber to submit your HW and name your issue: **Firstname Lastname: Assignment Title**
+Remember to submit your HW and name your issue: **Firstname Lastname: Assignment Title**
 
 # How to Submit your HW 
 
